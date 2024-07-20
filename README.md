@@ -10,9 +10,8 @@ Install Tampermonkey (or some script manager alternative) in your browser .
 
 Follow the extension instructions to install scripts and enjoy!
 
-
-Install Tampermonkey ([Google Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/tampermonkey/))
-Copy the script source code
-Open Tampermonkey in your browser and click the Add Script tab (icon with a plus symbol)
-Paste the source into the script window and hit save
-Voila!
+1. Install Tampermonkey ([Google Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/tampermonkey/))
+2. Copy the script source code
+3. Open Tampermonkey in your browser and click the Add Script tab (icon with a plus symbol)
+4. Paste the source into the script window and hit save
+5. Voila!
