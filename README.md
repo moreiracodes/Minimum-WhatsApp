@@ -6,10 +6,6 @@ This user script allows whatsapp web users:
 
 ## How use it
 
-Install Tampermonkey (or some script manager alternative) in your browser .
-
-Follow the extension instructions to install scripts and enjoy!
-
 1. Install Tampermonkey ([Google Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/tampermonkey/))
 2. Copy the script source code
 3. Open Tampermonkey in your browser and click the Add Script tab (icon with a plus symbol)
